@@ -90,7 +90,7 @@
     "react-test-renderer": "^16.14.0",
     "redux": "^4.1.0",
     "redux-actions": "^2.6.5",
-    "redux-observable": "1.2.0",
+    "redux-observable": "2.0.0",
     "rxjs": "^6.6.7",
     "shelljs": "^0.8.4",
     "sinon": "^11.1.1",
